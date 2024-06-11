@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidayCalendar", "HolidayCalendar.csproj", "{0941629B-62AF-4B8B-AE5E-044BF4081B55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolidayCalendar.Tests", "..\..\tests\HolidayCalendar.Tests\HolidayCalendar.Tests.csproj", "{E4CD74CE-64E9-4B67-A8E5-526DA5867391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0941629B-62AF-4B8B-AE5E-044BF4081B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0941629B-62AF-4B8B-AE5E-044BF4081B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0941629B-62AF-4B8B-AE5E-044BF4081B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0941629B-62AF-4B8B-AE5E-044BF4081B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CD74CE-64E9-4B67-A8E5-526DA5867391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CD74CE-64E9-4B67-A8E5-526DA5867391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CD74CE-64E9-4B67-A8E5-526DA5867391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CD74CE-64E9-4B67-A8E5-526DA5867391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007C1A25-5C65-4491-85CB-8F150974FEC1}
+	EndGlobalSection
+EndGlobal
