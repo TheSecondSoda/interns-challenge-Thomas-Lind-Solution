@@ -1,5 +1,6 @@
-#Solution
+# Solution
 _This is my solution to the coding challenge._
+
 _The challenge description is as follows._
 
 # Tech Chapter interns coding challenge
